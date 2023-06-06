@@ -15,6 +15,7 @@ genomeAnnotationStep01.smk 做的是 fastp hisat2 samtools stringtie transdecode
 conda create -n rnaseq
 ```
 
+
 安装软件
 
 ```
