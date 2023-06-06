@@ -99,3 +99,5 @@ snakemake -s genomeAnnotationStep04.smk --configfile=step04.yaml --cores 128 -p
 
 
 以上内容为运行测试，所以没有准备集群提交任务的脚本，采用的是交互运行的方式进行的，集群提交任务的脚本后续补上
+
+基因从头注释只用到braker2的augustus和genemark结果，注释出来的基因应该会偏少，后续应该再加上其他从头注释软件的一些结果
