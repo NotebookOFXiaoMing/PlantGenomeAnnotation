@@ -257,7 +257,7 @@ rule rename_gff3:
     shell:
         """
         cd {params.folder}
-        python ../../../rename_EVM_output_gff.py -g {params.gff} -c key_value.txt -p {params.prefix}
+        python /data/myan/raw_data/pome/ys.Genome/02.genome.annotation/rename_EVM_output_gff.py -g {params.gff} -c key_value.txt -p {params.prefix}
         """
 
 rule gffread:
