@@ -1,0 +1,5 @@
+ref:
+  fa: "/data/myan/raw_data/pome/ys.Genome/02.genome.annotation/00.genomes/{genome}.Genome.fa"
+rnaseq:
+  r1: "/data/myan/raw_data/pome/ys.Genome/02.genome.annotation/00.rnaseq/{rnaseq}_1.fastq.gz"
+  r2: "/data/myan/raw_data/pome/ys.Genome/02.genome.annotation/00.rnaseq/{rnaseq}_2.fastq.gz"

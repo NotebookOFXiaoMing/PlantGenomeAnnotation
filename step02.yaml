@@ -1,0 +1,2 @@
+bam: "02.transcriptome/02.merged.bam/{genome}/merged.bam"
+ref: "/data/myan/raw_data/pome/ys.Genome/02.genome.annotation/00.genomes/{genome}.Genome.fa.masked"
